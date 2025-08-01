@@ -71,8 +71,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yhun-tech&show_icons=true&theme=github_dark&locale=en" alt="Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yhun-tech&theme=dark" alt="GitHub streak" />
+<p align="center" height="500">
+
 </p>
 
 <p align="center">

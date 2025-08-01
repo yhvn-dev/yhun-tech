@@ -11,10 +11,10 @@
 ---
 
 ### 🔍 About Me
-🔭 I’m currently working on **IoT Integrated Web Applications**
-🌱 I’m currently learning **JavaScript, Node.js, React, Flask**
-📫 Reach me at: **jhunguidef@gmail.com**
-⚡ Fun fact: *No matter how intuitive the design is, someone will still ask, "So where do I click?"*
+- 🔭 I’m currently working on **IoT Integrated Web Applications**
+- 🌱 I’m currently learning **JavaScript, Node.js, React, Flask**
+- 📫 Reach me at: **jhunguidef@gmail.com**
+- ⚡ Fun fact: *No matter how intuitive the design is, someone will still ask, "So where do I click?"*
 
 ---
 

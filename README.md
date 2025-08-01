@@ -1,10 +1,16 @@
-<h1 align="center">Hi 👋, I'm Jhunguide Flores</h1>
+<h1 align="center">
+  Hi 👋, I'm Jhunguide Flores
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EF7F6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;IoT+Project+Builder;Loves+Clean+Code" alt="Typing SVG" />
+</h3>
+
+---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="code animation" />
+  <img src="https://komarev.com/ghpvc/?username=yhun-tech&label=Profile%20views&color=0e75b6&style=flat" alt="yhun-tech" />
 </p>
-
-<h3 align="center">Full-Stack Developer | UI/UX Enthusiast</h3>
 
 ---
 

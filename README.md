@@ -21,7 +21,7 @@
 ### 🌐 Connect With Me
 <p align="left">
   <a href="https://fb.com/jhvn.flores" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhvn flores" height="30" width="40" />
+    <img align="center" src="https://i.pinimg.com/1200x/df/f3/4f/dff34f72d887a459ad84b9febf527e42.jpg" alt="jhvn flores" height="30" width="40" />
   </a>
   <a href="https://instagram.com/__jhvn" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__jhvn" height="30" width="40" />

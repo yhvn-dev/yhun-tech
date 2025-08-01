@@ -11,11 +11,10 @@
 ---
 
 ### 🔍 About Me
-- 🔭 I’m currently working on **IoT Integrated Web Applications**
-- 🌱 I’m currently learning **JavaScript, Node.js, React, Flask**
-- 📫 Reach me at: **jhunguidef@gmail.com**
-- ⚡ Fun fact:  
-  🧪 *No matter how intuitive the design is, someone will still ask, "So where do I click?"*
+🔭 I’m currently working on **IoT Integrated Web Applications**
+🌱 I’m currently learning **JavaScript, Node.js, React, Flask**
+📫 Reach me at: **jhunguidef@gmail.com**
+⚡ Fun fact: *No matter how intuitive the design is, someone will still ask, "So where do I click?"*
 
 ---
 
@@ -73,9 +72,6 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yhun-tech&show_icons=true&locale=en" alt="yhun-tech stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yhun-tech&" alt="yhun-tech streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yhun-tech&show_icons=true&locale=en&layout=compact" alt="yhun-tech top langs" />

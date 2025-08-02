@@ -28,7 +28,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://fb.com/jhvn.flores" target="_blank">
+  <a href="https://fb.com/jhvn.flores](https://www.facebook.com/profile.php?id=100082108429956" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   &nbsp;&nbsp;

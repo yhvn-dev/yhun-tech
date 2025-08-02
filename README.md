@@ -16,9 +16,11 @@
 
 ### 🔍 About Me
 
-- 🔭 I’m currently working on **IoT Integrated Web Applications**
+- 🧑‍🎓 A Student
 - 🌱 I’m currently learning **JavaScript, Node.js, React, Flask**
+- 🔭 Curious at exploring **IoT Integrated Web Applications**
 - 📫 Reach me at: **jhunguidef@gmail.com**
+  
 - ⚡ Fun fact: 🧪 *No matter how intuitive the design is, someone will still ask, "So where do I click?"*
 
 ---

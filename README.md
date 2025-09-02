@@ -1,6 +1,6 @@
 
 
-<p>
+<p align="center">
    <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=fff"/>
 </p>
 
@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Jhunguide Flores</h1>
 
 <h3 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=🎓+4th+Year+IT+Student+|+Full-Stack+Developer+|+UI%2FUX+Enthusiast+|+Project+Collaborator&fontSize=20&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🎓+Minimal+Fade+Header&fontSize=25&animation=fadeIn&fontColor=fff"/>
 </h3>
 
 

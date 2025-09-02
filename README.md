@@ -8,7 +8,9 @@
 <h1 align="center">Hi 👋, I'm Jhunguide Flores</h1>
 
 <h3 align="center">
- <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=Hello%20there&fontSize=20&animation=twinkling&fontColor=ffffff" alt="Twinkling Wave Header"/>
+   
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Your%20Text%20Here&fontSize=20&animation=fadeIn&fontColor=ffffff" alt="Minimal Fade-In Header"/>
+ 
 </h3>
 
 

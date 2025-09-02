@@ -8,18 +8,24 @@
 <h1 align="center">Hi 👋, I'm Jhunguide Flores</h1>
 
 <h3 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🎓+Minimal+Fade+Header&fontSize=25&animation=fadeIn&fontColor=fff"/>
+ <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=Hello%20there&fontSize=20&animation=twinkling&fontColor=ffffff" alt="Twinkling Wave Header"/>
 </h3>
 
 
+<h3 align="center">Connect with me:</h3>
 
-- 🔭 I’m currently working on **IoT Integrated Web Applications**
+<p align="center">
+   
+   - 🔭 I’m currently working on **IoT Integrated Web Applications**
+   
+   - 🌱 I’m currently learning **Javascript,NodeJs,React,Flask**
+   
+   - 📫 How to reach me **jhunguidef@gmail.com**
+   
+   - ⚡ Fun fact **🧪 No matter how intuitive the design is, someone will still ask, "So where do I click?"**
+   
+</p>
 
-- 🌱 I’m currently learning **Javascript,NodeJs,React,Flask**
-
-- 📫 How to reach me **jhunguidef@gmail.com**
-
-- ⚡ Fun fact **🧪 No matter how intuitive the design is, someone will still ask, "So where do I click?"**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

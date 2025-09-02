@@ -6,7 +6,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Jhunguide Flores</h1>
-<h3 align="center">🎓 4th Year IT Student at a college school in the Philippines 💻 Full-Stack Developer | UI/UX Enthusiast | Project Collaborator</h3>
+
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=🎓+4th+Year+IT+Student+|+Full-Stack+Developer+|+UI%2FUX+Enthusiast+|+Project+Collaborator&fontSize=20&fontColor=ffffff" />
+</h3>
 
 
 
@@ -43,9 +46,9 @@
 
    
 <p align="center">
-   
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yhvn-dev&show_icons=true&locale=en&layout=compact" alt="yhvn-dev" /></p>
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yhvn-dev&show_icons=true&locale=en" alt="yhvn-dev" /></p>
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yhvn-dev&" alt="yhvn-dev" /></p>
-   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yhvn-dev&show_icons=true&locale=en&layout=compact" alt="yhvn-dev" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yhvn-dev&show_icons=true&locale=en" alt="yhvn-dev" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yhvn-dev&" alt="yhvn-dev" />
 </p>

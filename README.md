@@ -53,25 +53,19 @@
 
 
 
-<p align="center">   
+<p align="center">
   <!-- Profile Views -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=yhvn-dev&label=Profile%20views&color=0e75b6&style=flat-square" alt="yhvn-dev" />
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=yhvn-dev&label=Profile%20views&color=0e75b6&style=flat-square" alt="yhvn-dev" />
 
   <!-- GitHub Profile Trophy -->
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=yhvn-dev&theme=dark&no-frame=true" alt="yhvn-dev" />
-    </a>
-  </p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yhvn-dev&theme=dark&no-frame=true" alt="yhvn-dev" />
+  </a>
 
   <!-- Twitter Badge -->
-  <p align="center">
-    <a href="https://twitter.com/" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=0D1117" alt="Twitter Follow" />
-    </a>
-  </p>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=0D1117" alt="Twitter Follow" />
+  </a>
 </p>
 
 

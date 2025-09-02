@@ -9,8 +9,8 @@
 
 <h3 align="center">
    
- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Your%20Text%20Here&fontSize=20&animation=fadeIn&fontColor=ffffff" alt="Minimal Fade-In Header"/>
- 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Full%20Stack%20Web%20Developer%20+%20UI/UX%20Enthusiast%20+%20Future%20Oriented&fontSize=20&animation=fadeIn&fontColor=ffffff" alt="Minimal Fade-In Header"/>
+
 </h3>
 
 
@@ -45,18 +45,43 @@
   <img src="https://img.shields.io/badge/Hello-World-ff7eb3?style=for-the-badge&logo=github&logoColor=white&labelColor=8e44ad" alt="Custom Badge"/>
 </p>
 
-
-<p align="center">   
-      <p align="center"> <img src="https://komarev.com/ghpvc/?username=yhvn-dev&label=Profile%20views&color=0e75b6&style=flat" alt="yhvn-dev" /> </p>
-      <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yhvn-dev" alt="yhvn-dev" /></a> </p>
-      <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=yhvn-dev&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=10" />
 </p>
 
-   
+
+
+
+
+<p align="center">   
+  <!-- Profile Views -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=yhvn-dev&label=Profile%20views&color=0e75b6&style=flat-square" alt="yhvn-dev" />
+  </p>
+
+  <!-- GitHub Profile Trophy -->
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=yhvn-dev&theme=dark&no-frame=true" alt="yhvn-dev" />
+    </a>
+  </p>
+
+  <!-- Twitter Badge -->
+  <p align="center">
+    <a href="https://twitter.com/" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=0D1117" alt="Twitter Follow" />
+    </a>
+  </p>
+</p>
+
+
+
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yhvn-dev&show_icons=true&locale=en&layout=compact" alt="yhvn-dev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yhvn-dev&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yhvn-dev&show_icons=true&locale=en" alt="yhvn-dev" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yhvn-dev&show_icons=true&locale=en&theme=radical&bg_color=0d1117&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yhvn-dev&" alt="yhvn-dev" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yhvn-dev&theme=highcontrast&background=0d1117&hide_border=true"/>
 </p>

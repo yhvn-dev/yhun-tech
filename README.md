@@ -60,3 +60,17 @@
 </p>
 
 
+<h3 align="center">📊 GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yhvn-dev&show_icons=true&theme=tokyonight" alt="Jhunguide's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhvn-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
+
+
+

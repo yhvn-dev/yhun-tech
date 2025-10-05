@@ -9,9 +9,6 @@
 
 <h3 align="center">
    
-<!-- Capsule Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=header&fontSize=16&animation=fadeIn&fontColor=ffffff" alt="Minimal Fade-In Header"/>
-
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=500&color=ffffff&center=true&width=600&lines=Full+Stack+Web+Developer;UI%2FUX+Enthusiast;Future+Oriented" alt="Typing Effect"/>
 

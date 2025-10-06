@@ -15,15 +15,23 @@
 </h3>
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="About Me">Connect with me:</h3>
 
 <p align="center">
+
+Hello! I am Jhunguide U. Flores from the Philippines, currently a 4th year college student at a private school there. I build Fullstack web applications with PERN stack
+known as PostgreSQL, ExpressJs, ReactJs and NodeJs. 
+
+I am focusing at:
+- Designing efficient database structures  
+- Building RESTful APIs  
+- Implementing secure user authentication systems  
+
+I am profecient at:
+- UX/UI designs
+
    
-   - 🔭 I’m currently working on **IoT Integrated Web Applications**
-   
-   - 🌱 I’m currently learning **Javascript,PostgreSQL ExpressJs,ReactJs,NodeJs**
-   
-   - 📫 Reach Me At **jhunguidef@gmail.com**
+📫 Reach Me At **jhunguidef@gmail.com**
    
 </p>
 

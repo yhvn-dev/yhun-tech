@@ -47,6 +47,8 @@ I am profecient at:
 
 <h3 align="start">Languages and Tools:</h3>
 
+
+<p align="start">Frontend: </p>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="html5" width="60" height="60"/>
@@ -66,6 +68,12 @@ I am profecient at:
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="react" width="60" height="60"/>
   </a>
+   
+</p>
+
+<p align="start">Backend: </p>
+<p align="center">
+
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="60" height="60"/>
   </a>
@@ -93,7 +101,12 @@ I am profecient at:
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="60" height="60"/>
   </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+   
+</p>
+
+<p align="start">Tools: </p>
+<p align="center">
+   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="60" height="60"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -105,7 +118,9 @@ I am profecient at:
 </p>
 
 
-<p>_____________________________________________________________________________________________________________________________________________________________________</p>
+
+
+<p>_________________________________________________________________________________________________________________</p>
 
 <h3 align="center">📊 GitHub Stats</h3>
 

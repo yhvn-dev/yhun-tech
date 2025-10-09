@@ -45,48 +45,62 @@ I am profecient at:
 </p>
 
 
-
-<h3 align="start">Language and Tools</h3>
+<h3 align="start">Languages and Tools:</h3>
 
 <p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="60" height="60"/>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="60" height="60"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=css" alt="css3" width="60" height="60"/>
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" alt="express" width="60" height="60"/>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="60" height="60"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="60" height="60"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="60" height="60"/>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="60" height="60"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="60" height="60"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="60" height="60"/>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" alt="react" width="60" height="60"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="60" height="60"/>
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="60" height="60"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="python" width="60" height="60"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="react" width="60" height="60"/>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=express" alt="express" width="60" height="60"/>
   </a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="60" height="60"/>
   </a>
   <a href="https://jwt.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" alt="jwt" width="60" height="60" style="background-color:#2d2d2d; border-radius:12px; padding:8px;"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=php" alt="php" width="60" height="60"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="60" height="60"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=python" alt="python" width="60" height="60"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="60" height="60"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="60" height="60"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="60" height="60"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="git" width="60" height="60"/>
+  </a>
+  <a href="https://www.wampserver.com/en/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=wasm" alt="wamp" width="60" height="60"/>
   </a>
 </p>
 

@@ -89,21 +89,8 @@ I am profecient at:
   </a>
 </p>
 
----
 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,css,express,git,html,js,mysql,nodejs,postgres,python,react,npm" alt="tech stack" />
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" alt="jwt" width="48" height="48" style="background-color:#2d2d2d; border-radius:10px; padding:6px; margin-left:4px;"/>
-</p>
-
----
-
-<img src="https://skillicons.dev/icons?i=bootstrap,css,express&theme=tokyonight" />
-
-<img src="https://skillicons.dev/icons?i=bootstrap,css,express&perline=5" />
-
-
+<p>_____________________________________________________________________________________________________________________________________________________________________</p>
 
 <h3 align="center">📊 GitHub Stats</h3>
 

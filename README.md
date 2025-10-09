@@ -70,10 +70,7 @@ I am profecient at:
   <a href="https://instagram.com/__jhvn" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="60" height="60"/>
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="60" height="60"/>
-  </a>
-  <a href="https://discord.gg/yourinvite" target="_blank">
+  <a href="https://discord.com/users/995662999270473748" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="60" height="60"/>
   </a>
   <a href="https://github.com/yhvn-dev" target="_blank">

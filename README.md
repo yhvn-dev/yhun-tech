@@ -5,7 +5,10 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Jhunguide Flores</h1>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20👋,%20I'm%20Jhunguide%20Flores&fontSize=40&fontAlignY=35&fontColor=fff" />
+</h1>
+
 
 <h3 align="center">
    

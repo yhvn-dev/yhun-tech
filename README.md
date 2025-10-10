@@ -98,9 +98,6 @@ I am profecient at:
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="60" height="60"/>
   </a>
-  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" alt="jwt" width="60" height="60" style="background-color:#2d2d2d; border-radius:12px; padding:8px;"/>
-  </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=php" alt="php" width="60" height="60"/>
   </a>

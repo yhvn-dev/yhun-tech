@@ -132,7 +132,7 @@ I am profecient at:
 
 
 
-<p>___________________________________________________________________________________________________</p>
+<p>________________________________________________________________________________________________________</p>
 
 <h3 align="center">📊 GitHub Stats</h3>
 
@@ -150,3 +150,11 @@ I am profecient at:
 
 
 
+
+
+<!-- 🏆 GitHub Trophies -->
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yhvn-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+</p>

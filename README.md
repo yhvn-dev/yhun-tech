@@ -132,7 +132,7 @@ I am profecient at:
 
 
 
-<p>________________________________________________________________________________________________________</p>
+<p>________________________________________________________________________________________________________________________________________________</p>
 
 <h3 align="center">📊 GitHub Stats</h3>
 
@@ -154,5 +154,14 @@ I am profecient at:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yhvn-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+</p>
+
+
+<h3 align="center">🎧 Now Playing on Spotify</h3>
+
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31tg3vk47y6earqvlltmaygxd43i&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tg3vk47y6earqvlltmaygxd43i&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify       Now Playing" />
+  </a>
 </p>
 
